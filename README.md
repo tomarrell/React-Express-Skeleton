@@ -16,5 +16,3 @@ or
 npm i
 ```
 
-
-Authored by Tom Arrell
