@@ -16,3 +16,13 @@ or
 npm i
 ```
 
+## Starting the application
+To run the backend service:
+```
+yarn backend
+```
+and to run the React-Redux frontend
+```
+yarn start
+```
+
