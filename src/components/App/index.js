@@ -1,17 +1,16 @@
 import React from 'react';
-import classNames from 'classnames';
 
 // import logo from './logo.svg';
-import './style.css';
+import style from './style.css';
 
 function App() {
   return (
-    <div className={classNames('app')}>
-      <div className="app-header">
-        {/* <img src={logo} className="app-logo" alt="logo" /> */}
+    <div className={style.app}>
+      <div className={style.appHeader}>
+        {/* <img src={logo} className={style.appLogo} alt="logo" /> */}
         <h2>Tom React-Express Skeleton</h2>
       </div>
-      <p className="app-intro">
+      <p className={style.appIntro}>
         To get started, edit <code>src/components/App.js</code> and save to reload.
       </p>
     </div>
