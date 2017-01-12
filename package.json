@@ -39,6 +39,7 @@
     "redux-thunk": "^2.1.0"
   },
   "scripts": {
-    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js --port 3000"
+    "start": "node ./node_modules/webpack-dev-server/bin/webpack-dev-server.js --port 3001",
+    "backend": "node ./server.js"
   }
 }
