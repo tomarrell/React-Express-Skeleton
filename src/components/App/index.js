@@ -3,7 +3,7 @@ import React from 'react';
 // import logo from './logo.svg';
 import style from './style.css';
 
-function App() {
+export default function App() {
   return (
     <div className={style.app}>
       <div className={style.appHeader}>
@@ -24,4 +24,4 @@ function App() {
   );
 }
 
-export default App;
+App.displayName = 'App';
