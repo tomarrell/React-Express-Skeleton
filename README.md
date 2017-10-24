@@ -9,20 +9,16 @@ git clone https://github.com/tomarrell/React-Express-Skeleton.git
 
 Then install dependencies. It is recommended you use Yarn, however NPM will work as well.
 ```
-yarn
-```
-or
-```
 npm i
 ```
 
 ## Starting the application
 To run the backend service:
 ```
-yarn backend
+npm run backend
 ```
 and to run the React-Redux frontend
 ```
-yarn start
+npm start
 ```
 
