@@ -7,7 +7,7 @@ Clone the repository locally.
 git clone https://github.com/tomarrell/React-Express-Skeleton.git
 ```
 
-Then install dependencies. It is recommended you use Yarn, however NPM will work as well.
+Then install dependencies. It is recommended you use NPM, however Yarn will work as well.
 ```
 npm i
 ```
